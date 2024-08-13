@@ -1,4 +1,4 @@
-# Tableau
+# CASO PRACTICO TABLEAU
 ## Contexto
 Nos encontramos con los datos personales de los empleados de la compañía SRL, que
 incluyen información detallada sobre la contratación, desempeño, y características
